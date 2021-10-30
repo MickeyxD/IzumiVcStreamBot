@@ -1,1 +1,1 @@
-worker: python3 -m Misery
+worker: python3 -m Izumi
