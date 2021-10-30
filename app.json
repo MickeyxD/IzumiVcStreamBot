@@ -7,9 +7,9 @@
         "telegram bot",
         "video stream"
     ],
-    "website": "https://t.me/XeBorn",
-    "repository": "https://github.com/TurdusMaximus/MiseryVideoStream",
-    "success_url": "https://t.me/TurdusMaximus",
+    "website": "https://t.me/M1ckey_0p",
+    "repository": "https://github.com/MicleyxD/IzumiVcStreamBot",
+    "success_url": "https://t.me/MickeyxD",
     "env": {
         "API_ID": {
             "description": "ɢᴇᴛ ʏᴏᴜʀ ᴀᴘɪ_ɪᴅ ғʀᴏᴍ my.telegram.org ",
