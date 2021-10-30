@@ -1,6 +1,6 @@
 from pyrogram import Client, idle
 from config import API_ID, API_HASH, BOT_TOKEN
-from Misery.VideoStreaming import app
+from Izumi.VideoStreaming import app
 
 
 Misery = Client(
@@ -8,11 +8,11 @@ Misery = Client(
     API_ID,
     API_HASH,
     bot_token=BOT_TOKEN,
-    plugins=dict(root="Misery"),
+    plugins=dict(root="Izumi"),
 )
 
 Misery.start()
-print("[Your Misery Is Ready To Stream✓")
+print("[Your Izumi Is Ready To Stream✓")
 app.start()
-print("Started Sucksexfully✓")
+print("Started Successfully✓")
 idle()
